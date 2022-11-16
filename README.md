@@ -1,5 +1,18 @@
-### 8. 이미지 넣기
+### 10. 표
+|Header|Value|Description|
+|:-------:|:------|------:|
+|1|자바|웹 최강 언어!!|
 
+
+### 9. 글자 강조(Emphasis)
+**굵은긁씨**</br>
+*이탤릭*</br>
+~~취소선~~
+
+
+### 8. 이미지 넣기
+https://github.com/yls7577/README_MD_EDU/blob/main/doc/imgs/uzuhama.jpg
+![우주하마](https://github.com/yls7577/README_MD_EDU/blob/main/doc/imgs/uzuhama.jpg "uzuhama")
 
 
 ### 7. 하이퍼 링크
